@@ -1,4 +1,4 @@
-# shoes_classification
+# shoes classification and recommendation
 
 # Requirement.  
 1) Install anaconda and follow this https://software.intel.com/en-us/articles/using-intel-distribution-for-python-with-anaconda.    
